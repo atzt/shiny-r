@@ -1,7 +1,7 @@
 library(shiny)
 
 # Define UI for miles per gallon app ----
-ui <- fluidPage(
+ui <- fluidage(
 
   # App title ----
   titlePanel("Miles Per Gallon"),
