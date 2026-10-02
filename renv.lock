@@ -1,0 +1,11 @@
+{
+  "R": {
+    "Version": "4.4.0",
+    "Repositories": [
+      { "Name": "CRAN", "URL": "https://packagemanager.posit.co/cran/latest" }
+    ]
+  },
+  "Packages": {
+    "shiny": { "Package": "shiny", "Version": "1.8.1.1", "Source": "Repository", "Repository": "RSPM" }
+  }
+}
